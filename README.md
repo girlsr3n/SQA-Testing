@@ -1,5 +1,6 @@
 # SQA-Testing
 Anggota kelompok kita
-- Khairunnisa (20221310070)
-- Rifa (20221310082)
-- Siti (20221310085)
+- Khairunnisa Dwi (20221310070)
+- Ratna S (20221310081)
+- Rifa Vida Z (20221310082)
+- Siti Rahmah (20221310085)
